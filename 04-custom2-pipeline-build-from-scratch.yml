@@ -26,6 +26,5 @@ stages:
              Dockerfile: '**/Dockerfile' 
              tags: 
                 $(tag)
-                cricket 
 ## Publish Artifacts pipeline code in addition to Build and Push          
  
